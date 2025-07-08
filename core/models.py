@@ -1,0 +1,1 @@
+# Remove any @admin.register(Property) and PropertyAdmin class from this file. 
